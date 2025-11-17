@@ -19,7 +19,6 @@ Recruiters quickly filtering top candidates
 
 Developers showcasing backend + NLP skills
 
-🌟 Demo
 
 Run locally:
 
@@ -29,8 +28,6 @@ uvicorn app.main:app --reload --port 8000
 Then open Swagger interactive docs:
 
 👉 http://127.0.0.1:8000/docs
-
-(If you deploy using Render, add your public demo URL here.)
 
 ✨ Features
 
@@ -181,14 +178,3 @@ Request Body:
 🔐 User authentication
 
 📊 Dashboard with match analytics
-
-☁️ Deployment on Render/Railway
-
-🤝 Contributing
-
-Pull requests welcome!
-If you want to improve the model, add better NLP, or build a UI, go ahead.
-
-📄 License
-
-MIT License — feel free to use, modify, and share.
